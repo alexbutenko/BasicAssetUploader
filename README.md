@@ -1,6 +1,8 @@
 BasicAssetUploader
 ==================
 
+![alt tag](https://raw.githubusercontent.com/alexbutenko/BasicAssetUploader/master/screenshot.png)
+
 Basic asset uploader app demonstrating how to use CloudKit for that.
 
 1. Create App ID using Apple developer program
